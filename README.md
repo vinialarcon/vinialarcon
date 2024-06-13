@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data science and python
 - 💞️ I’m looking to collaborate on projects, education, development and more
 - 📫 How to reach me: alarconvini@gmail.com
-- 😄 Pronouns: him/his
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm a biomedical scientist
 
 <!---
