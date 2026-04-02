@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="4">
+<mxfile host="app.diagrams.net" pages="6">
   <diagram name="Media1" id="xf00gf5KSLC1tfeSlVsi">
     <mxGraphModel dx="872" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
         <mxCell id="grbMFShOYaOmrYIF9FKq-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" value="Reúna uma lata de leite condensado, uma colher de manteiga e três colheres de chocolate em pó em uma panela" vertex="1">
           <mxGeometry height="70" width="220" x="148" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="grbMFShOYaOmrYIF9FKq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" value="Aqueça uma mistura em fogo baixo, mantendo o movimento constante com uma espátula para garantir a homogeneidade" vertex="1">
+        <mxCell id="grbMFShOYaOmrYIF9FKq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;" value="Aqueça uma mistura do conteúdo em fogo baixo, mantendo o movimento constante com uma espátula para garantir a homogeneidade" vertex="1">
           <mxGeometry height="80" width="220" x="148" y="340" as="geometry" />
         </mxCell>
         <mxCell id="grbMFShOYaOmrYIF9FKq-15" edge="1" parent="1" source="grbMFShOYaOmrYIF9FKq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="grbMFShOYaOmrYIF9FKq-7">
@@ -189,6 +189,34 @@
   </diagram>
   <diagram id="dSBmMqP7Y4oOYY6vIdIg" name="Rotina de trabalho">
     <mxGraphModel dx="1166" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uw6ot-74mssAzU11Og5s-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Inicio da rotina de acordar e ir ao trabalho" vertex="1">
+          <mxGeometry height="70" width="170" x="330" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k-DdKROyoHr9V8P2vaM7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Desligar o despertador e realizar um breve alongamento ainda no leito para despertar a musculatura" vertex="1">
+          <mxGeometry height="70" width="164" x="332" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="k-DdKROyoHr9V8P2vaM7-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Direcionar-se ao banheiro para realizar a higiene pessoal matinal e um banho revigorante" vertex="1">
+          <mxGeometry height="70" width="164" x="330" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="k-DdKROyoHr9V8P2vaM7-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Vestir a vestimenta selecionada para as atividades do dia" vertex="1">
+          <mxGeometry height="70" width="164" x="330" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lHrzZZzaJLEAktdvWEtC" name="Preparar um café">
+    <mxGraphModel dx="1166" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eGO4i0VJ7TcxroBw9Fn0" name="Preparar um x-burger">
+    <mxGraphModel dx="1166" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
